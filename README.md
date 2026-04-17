@@ -1,2 +1,15 @@
-# student-performance-analysis
-Student Performance Analysis using Python, where I explored key factors affecting marks and implemented a Linear Regression model for prediction.  Demonstrates skills in data analysis, visualization, and machine learning. Tools Used: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+# 📊 Student Performance Analysis & Prediction
+
+This project analyzes student data to understand how study time and attendance affect performance.
+
+## 🔍 Features
+- Data analysis using Pandas  
+- Data visualization using Matplotlib & Seaborn  
+- Machine Learning model using Linear Regression  
+
+## 💡 Insights
+- Study time and attendance impact student marks  
+- Data helps identify performance patterns  
+
+## 🛠️ Tools Used
+Python, Pandas, Matplotlib, Seaborn, Scikit-learn
